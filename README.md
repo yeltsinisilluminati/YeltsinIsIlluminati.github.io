@@ -6,15 +6,15 @@
   <body>
     <h1>Relevant social media links for the music project Yeltsin Is Illuminati</h1>
 
-    Bandcamp: https://yeltsinisilluminati.bandcamp.com/<br/>
+    <a href="https://yeltsinisilluminati.bandcamp.com/">Bandcamp</a><br/>
 
-    VK: https://vk.com/yeltsinisilluminati <br/>
+    <a href="https://vk.com/yeltsinisilluminati">VK</a> <br/>
 
-    Youtube: https://www.youtube.com/c/yeltsinisilluminati <br/>
+    <a href="https://www.youtube.com/c/yeltsinisilluminati">Youtube</a> <br/>
 
-    Instagram: https://www.instagram.com/yeltsinisilluminati/ <br/>
+    <a href="https://www.instagram.com/yeltsinisilluminati/">Instagram</a> <br/>
 
-    Spotify: https://open.spotify.com/artist/4c9NovthV554UiAveQz9JT <br/>
+    <a href="https://open.spotify.com/artist/4c9NovthV554UiAveQz9JT">Spotify</a> <br/>
 
     Thank you for your interest and have fun listening!
   </body>

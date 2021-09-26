@@ -7,7 +7,7 @@
   <body>
     <h1>Relevant social media links for the music project Yeltsin Is Illuminati</h1>
 
-    Bandcamp: https://yeltsinisilluminati.bandcamp.com/
+    Bandcamp: https://yeltsinisilluminati.bandcamp.com/<br/>
 
     VK: https://vk.com/yeltsinisilluminati
 

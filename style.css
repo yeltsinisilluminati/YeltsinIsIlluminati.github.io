@@ -1,41 +1,65 @@
 html {
   font-size: 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #000000;
 }
 
-
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
 }
 
-p, li {
-  font-size: 16px;
-  line-height: 2;
+li {
+  font-size: 20px;
+  line-height: 1;
   letter-spacing: 1px;
+  vertical-align: middle;
+  list-style-type:none;
 }
 
-
-html {
-  background-color: #00539F;
+p {
+  font-size:17px;
+  text-align: center;
 }
-
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #131212;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
+  color: white;
+}
+
+#player {
+  text-align: center;
+}
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #04a78c;
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #a70476;
   text-shadow: 3px 3px 1px black;
 }
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+#links img{
+  display: inline;
+  height: 60px;
+  width: 60px;
+  vertical-align: middle;
+  padding-right:11px;
+  padding-top:11px;
 }
